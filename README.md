@@ -1,4 +1,4 @@
-# Realtime Chat
+# Loginsystem Backend
 
 ## How to install
 
@@ -13,7 +13,7 @@ npm install
 - Please run the script below
 
 ```bash 
-npm run dev
+npm run start
 Go to localhost:3000
 ```
 
@@ -21,4 +21,4 @@ Go to localhost:3000
 - And download the Vs Code extention from Ritwick Dey.
 - After download the extention right click the index file in public folder.
 - Than click open with live server.
-# Cv-Html-Css-Js-Socket.io-Node-Express
+# Node-Express-MongoDB-Morgan-Nodemon
